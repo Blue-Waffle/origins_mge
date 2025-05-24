@@ -1,0 +1,12 @@
+{
+  "name": "Sandworm",
+  "description": "A titanic burrower. Can dig through sand, is resistant to suffocation, but slow on the surface.",
+  "icon": "minecraft:sand",
+  "powers": [
+    "origins:sand_burrow",
+    "origins:suffocation_resist",
+    "origins:slow_surface",
+    "origins:sandworm_size"
+  ],
+  "impact": 2
+}

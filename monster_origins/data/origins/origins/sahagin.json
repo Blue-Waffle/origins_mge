@@ -1,0 +1,12 @@
+{
+  "name": "Sahagin",
+  "description": "A fish-like monster. Can breathe underwater, leap from water, and is camouflaged in rivers.",
+  "icon": "minecraft:tropical_fish",
+  "powers": [
+    "origins:water_breathing",
+    "origins:water_leap",
+    "origins:river_camouflage",
+    "origins:sahagin_size"
+  ],
+  "impact": 1
+}

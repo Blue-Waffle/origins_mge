@@ -1,0 +1,12 @@
+{
+  "name": "Lizardman",
+  "description": "A reptilian monster. Resistant to heat, swims well, and regenerates health in warm biomes.",
+  "icon": "minecraft:scute",
+  "powers": [
+    "origins:heat_resistance",
+    "origins:aquatic_swimmer",
+    "origins:warm_regeneration",
+    "origins:lizardman_size"
+  ],
+  "impact": 2
+}

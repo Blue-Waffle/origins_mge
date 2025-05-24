@@ -1,0 +1,11 @@
+{
+  "name": "Succubus",
+  "description": "A charismatic and enchanting monster, able to drain energy from foes and charm others.",
+  "icon": "minecraft:ghast_tear",
+  "powers": [
+    "origins:charm",
+    "origins:energy_drain",
+    "origins:succubus_size"
+  ],
+  "impact": 3
+}

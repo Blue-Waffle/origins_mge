@@ -1,0 +1,12 @@
+{
+  "name": "Slug",
+  "description": "A slimy monster. Slowly regenerates, leaves a slowing trail, but is slow.",
+  "icon": "minecraft:clay_ball",
+  "powers": [
+    "origins:slug_regen",
+    "origins:slug_trail",
+    "origins:sluggish",
+    "origins:slug_size"
+  ],
+  "impact": 1
+}

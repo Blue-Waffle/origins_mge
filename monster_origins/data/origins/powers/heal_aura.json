@@ -1,0 +1,14 @@
+{
+  "type": "origins:area_of_effect",
+  "radius": 4,
+  "effect": {
+    "type": "origins:apply_effect",
+    "effect": "minecraft:regeneration",
+    "duration": 60,
+    "amplifier": 1
+  },
+  "cooldown": 500,
+  "key": {
+    "key": "key.origins.primary_active"
+  }
+}

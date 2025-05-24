@@ -1,0 +1,11 @@
+{
+  "name": "Alraune",
+  "description": "A plant-based monster. Regenerates in sunlight and can root to heal faster.",
+  "icon": "minecraft:lily_of_the_valley",
+  "powers": [
+    "origins:sun_regen",
+    "origins:root_heal",
+    "origins:alraune_size"
+  ],
+  "impact": 2
+}

@@ -1,0 +1,8 @@
+{
+  "type": "origins:action_over_time",
+  "interval": 30,
+  "entity_action": {
+    "type": "origins:place_block",
+    "block": "minecraft:ice"
+  }
+}

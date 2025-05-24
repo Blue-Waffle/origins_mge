@@ -1,0 +1,12 @@
+{
+  "name": "Kejourou",
+  "description": "A hair spirit. Can entangle foes, move silently, and sees through walls with her hair.",
+  "icon": "minecraft:string",
+  "powers": [
+    "origins:hair_entangle",
+    "origins:silent_steps",
+    "origins:hair_vision",
+    "origins:kejourou_size"
+  ],
+  "impact": 2
+}

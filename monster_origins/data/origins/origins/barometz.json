@@ -1,0 +1,12 @@
+{
+  "name": "Barometz",
+  "description": "A sheep-plant monster. Regenerates in sunlight, can root for healing, but is weak to fire.",
+  "icon": "minecraft:wheat",
+  "powers": [
+    "origins:sun_regen",
+    "origins:root_heal",
+    "origins:fire_weakness",
+    "origins:barometz_size"
+  ],
+  "impact": 1
+}

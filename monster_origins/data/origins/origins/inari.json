@@ -1,0 +1,12 @@
+{
+  "name": "Inari",
+  "description": "A fox spirit of harvest. Can bless crops, is quick and clever, and resists poison.",
+  "icon": "minecraft:wheat",
+  "powers": [
+    "origins:crop_blessing",
+    "origins:quick_thinker",
+    "origins:poison_resistance",
+    "origins:inari_size"
+  ],
+  "impact": 2
+}

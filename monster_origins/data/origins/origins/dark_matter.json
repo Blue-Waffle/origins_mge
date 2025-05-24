@@ -1,0 +1,12 @@
+{
+  "name": "Dark Matter",
+  "description": "A being of living darkness. Can phase through blocks, inflict blindness, and regenerates in darkness.",
+  "icon": "minecraft:obsidian",
+  "powers": [
+    "origins:dark_phasing",
+    "origins:inflict_blindness",
+    "origins:dark_regen",
+    "origins:dark_matter_size"
+  ],
+  "impact": 3
+}

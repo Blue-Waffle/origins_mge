@@ -1,0 +1,12 @@
+{
+  "name": "Arch-Imp",
+  "description": "An empowered imp. Can teleport, is immune to fire, and causes mischief.",
+  "icon": "minecraft:fire_charge",
+  "powers": [
+    "origins:imp_teleport",
+    "origins:fire_immunity",
+    "origins:mischief",
+    "origins:arch_imp_size"
+  ],
+  "impact": 2
+}

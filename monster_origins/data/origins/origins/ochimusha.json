@@ -1,0 +1,12 @@
+{
+  "name": "Ochimusha",
+  "description": "A fallen warrior. Inspires fear, can perform a desperate strike, and is resilient.",
+  "icon": "minecraft:iron_helmet",
+  "powers": [
+    "origins:ochimusha_fear_aura",
+    "origins:desperate_strike",
+    "origins:ochimusha_resilience",
+    "origins:ochimusha_size"
+  ],
+  "impact": 2
+}

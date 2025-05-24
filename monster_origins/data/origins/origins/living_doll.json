@@ -1,0 +1,12 @@
+{
+  "name": "Living Doll",
+  "description": "A tiny animated toy. Small, nimble, and can reflect a portion of incoming damage, but is fragile.",
+  "icon": "minecraft:carved_pumpkin",
+  "powers": [
+    "origins:doll_small",
+    "origins:nimble",
+    "origins:damage_reflect",
+    "origins:fragile"
+  ],
+  "impact": 1
+}

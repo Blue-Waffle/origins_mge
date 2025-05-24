@@ -1,0 +1,12 @@
+{
+  "name": "Lamia",
+  "description": "A serpentine monster. Moves swiftly on land, is resistant to poison, and constricts foes.",
+  "icon": "minecraft:snake_spawn_egg",
+  "powers": [
+    "origins:serpentine_swiftness",
+    "origins:constrict",
+    "origins:poison_resistance",
+    "origins:lamia_size"
+  ],
+  "impact": 2
+}

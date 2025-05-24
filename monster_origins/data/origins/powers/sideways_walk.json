@@ -1,0 +1,9 @@
+{
+  "type": "origins:action_over_time",
+  "interval": 20,
+  "entity_action": {
+    "type": "origins:move",
+    "direction": "sideways",
+    "speed": 0.1
+  }
+}

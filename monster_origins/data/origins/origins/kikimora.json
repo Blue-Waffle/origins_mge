@@ -1,0 +1,12 @@
+{
+  "name": "Kikimora",
+  "description": "A house spirit. Moves quietly, can clean blocks, and causes sleepiness to intruders.",
+  "icon": "minecraft:string",
+  "powers": [
+    "origins:silent_steps",
+    "origins:cleaning",
+    "origins:sleep_aura",
+    "origins:kikimora_size"
+  ],
+  "impact": 1
+}

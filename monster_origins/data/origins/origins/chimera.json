@@ -1,0 +1,13 @@
+{
+  "name": "Chimera",
+  "description": "A beast of many parts. Can poison, burn, or knock back foes, and has increased health.",
+  "icon": "minecraft:dragon_head",
+  "powers": [
+    "origins:poison_spit",
+    "origins:fire_breath",
+    "origins:knockback_roar",
+    "origins:chimera_health",
+    "origins:chimera_size"
+  ],
+  "impact": 3
+}

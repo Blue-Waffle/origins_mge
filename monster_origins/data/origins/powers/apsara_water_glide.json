@@ -1,0 +1,11 @@
+{
+  "type": "origins:action_over_time",
+  "interval": 20,
+  "entity_action": {
+    "type": "origins:grant_power",
+    "power": "origins:water_walking"
+  },
+  "condition": {
+    "type": "origins:on_water"
+  }
+}

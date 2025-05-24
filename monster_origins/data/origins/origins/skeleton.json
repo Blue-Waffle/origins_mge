@@ -1,0 +1,13 @@
+{
+  "name": "Skeleton",
+  "description": "An undead monster. Immune to poison and hunger, skilled with bows, but burns in sunlight.",
+  "icon": "minecraft:bone",
+  "powers": [
+    "origins:poison_immunity",
+    "origins:hunger_immunity",
+    "origins:bow_mastery",
+    "origins:sunlight_burning",
+    "origins:skeleton_size"
+  ],
+  "impact": 1
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Golem",
+  "description": "A massive animated construct. Very strong and tough, but slow and heavy.",
+  "icon": "minecraft:iron_block",
+  "powers": [
+    "origins:golem_strength",
+    "origins:golem_resistance",
+    "origins:sluggish",
+    "origins:golem_size"
+  ],
+  "impact": 3
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Houri",
+  "description": "A radiant spirit of grace and beauty. Heals allies, resists darkness, and moves lightly.",
+  "icon": "minecraft:pink_tulip",
+  "powers": [
+    "origins:houri_heal",
+    "origins:dark_resistance",
+    "origins:lightweight",
+    "origins:houri_size"
+  ],
+  "impact": 1
+}

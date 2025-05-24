@@ -1,0 +1,12 @@
+{
+  "name": "Renxiongmao",
+  "description": "A bamboo-loving bear. Eats bamboo for healing, is tough, but slow.",
+  "icon": "minecraft:bamboo",
+  "powers": [
+    "origins:renxiongmao_bamboo_heal",
+    "origins:renxiongmao_toughness",
+    "origins:renxiongmao_sluggish",
+    "origins:renxiongmao_size"
+  ],
+  "impact": 1
+}

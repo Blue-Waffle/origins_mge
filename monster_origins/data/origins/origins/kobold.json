@@ -1,0 +1,12 @@
+{
+  "name": "Kobold",
+  "description": "A crafty, small monster. Mines fast, fits in small spaces, and is nimble.",
+  "icon": "minecraft:copper_ingot",
+  "powers": [
+    "origins:mine_speed",
+    "origins:small_stature",
+    "origins:nimble",
+    "origins:kobold_size"
+  ],
+  "impact": 1
+}

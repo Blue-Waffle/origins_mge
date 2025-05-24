@@ -1,0 +1,14 @@
+{
+  "type": "origins:area_of_effect",
+  "radius": 5,
+  "effect": {
+    "type": "origins:apply_effect",
+    "effect": "minecraft:weakness",
+    "duration": 100,
+    "amplifier": 1
+  },
+  "cooldown": 600,
+  "key": {
+    "key": "key.origins.primary_active"
+  }
+}

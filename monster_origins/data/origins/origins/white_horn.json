@@ -1,0 +1,12 @@
+{
+  "name": "White Horn",
+  "description": "A gentle beast with magical horns. Can heal allies, resists poison, and is tough.",
+  "icon": "minecraft:bone_block",
+  "powers": [
+    "origins:heal_aura",
+    "origins:poison_resist",
+    "origins:horn_toughness",
+    "origins:white_horn_size"
+  ],
+  "impact": 2
+}

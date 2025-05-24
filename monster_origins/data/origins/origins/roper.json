@@ -1,0 +1,12 @@
+{
+  "name": "Roper",
+  "description": "A tentacled monster. Can ensnare targets, is resistant to projectiles, and can cling to ceilings.",
+  "icon": "minecraft:string",
+  "powers": [
+    "origins:ensnare",
+    "origins:projectile_resist",
+    "origins:ceiling_cling",
+    "origins:roper_size"
+  ],
+  "impact": 2
+}

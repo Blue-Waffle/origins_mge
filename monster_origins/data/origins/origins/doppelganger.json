@@ -1,0 +1,12 @@
+{
+  "name": "Doppelganger",
+  "description": "A shapeshifting monster. Can disguise as others, mimic abilities, but loses health slowly.",
+  "icon": "minecraft:ender_pearl",
+  "powers": [
+    "origins:disguise",
+    "origins:mimic_ability",
+    "origins:slow_decay",
+    "origins:doppelganger_size"
+  ],
+  "impact": 3
+}

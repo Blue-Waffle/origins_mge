@@ -1,0 +1,13 @@
+{
+  "type": "origins:consume_item",
+  "item_condition": {
+    "type": "origins:item",
+    "item": "minecraft:rotten_flesh"
+  },
+  "entity_action": {
+    "type": "origins:apply_effect",
+    "effect": "minecraft:regeneration",
+    "duration": 100,
+    "amplifier": 1
+  }
+}

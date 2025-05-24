@@ -1,0 +1,12 @@
+{
+  "name": "Wendigo",
+  "description": "A chilling cannibal spirit. Moves swiftly in snow, regenerates in cold, and inflicts hunger.",
+  "icon": "minecraft:rotten_flesh",
+  "powers": [
+    "origins:snow_speed",
+    "origins:cold_regen",
+    "origins:hunger_touch",
+    "origins:wendigo_size"
+  ],
+  "impact": 2
+}

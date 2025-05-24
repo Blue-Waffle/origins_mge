@@ -1,0 +1,12 @@
+{
+  "name": "Mimic",
+  "description": "A shapeshifting monster. Can disguise as a chest, ambushes foes, and stores extra items.",
+  "icon": "minecraft:chest",
+  "powers": [
+    "origins:disguise_chest",
+    "origins:ambush",
+    "origins:extra_inventory",
+    "origins:mimic_size"
+  ],
+  "impact": 2
+}

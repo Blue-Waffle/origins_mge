@@ -1,0 +1,12 @@
+{
+  "name": "Flowkelp",
+  "description": "A sentient aquatic plant. Can heal allies in water, move with currents, and grows quickly underwater.",
+  "icon": "minecraft:kelp",
+  "powers": [
+    "origins:water_heal",
+    "origins:current_shift",
+    "origins:underwater_growth",
+    "origins:flowkelp_size"
+  ],
+  "impact": 1
+}

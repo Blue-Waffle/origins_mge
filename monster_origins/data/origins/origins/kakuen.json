@@ -1,0 +1,12 @@
+{
+  "name": "Kakuen",
+  "description": "A mountain ape. Climbs fast, throws rocks, and has great strength.",
+  "icon": "minecraft:cobblestone",
+  "powers": [
+    "origins:kakuen_climb",
+    "origins:kakuen_throw",
+    "origins:kakuen_strength",
+    "origins:kakuen_size"
+  ],
+  "impact": 2
+}

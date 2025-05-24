@@ -1,0 +1,11 @@
+{
+  "name": "Cockatrice",
+  "description": "A reptilian avian monster with a petrifying gaze and a venomous bite.",
+  "icon": "minecraft:egg",
+  "powers": [
+    "origins:petrifying_gaze",
+    "origins:venom_bite",
+    "origins:cockatrice_size"
+  ],
+  "impact": 3
+}

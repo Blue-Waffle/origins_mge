@@ -1,0 +1,13 @@
+{
+  "name": "Ao-Oni",
+  "description": "A blue ogre. Strong and tough, can smash blocks, but is slow and feared by villagers.",
+  "icon": "minecraft:blue_wool",
+  "powers": [
+    "origins:oni_strength",
+    "origins:oni_toughness",
+    "origins:block_smash",
+    "origins:oni_slow",
+    "origins:ao_oni_size"
+  ],
+  "impact": 3
+}

@@ -1,0 +1,12 @@
+{
+  "type": "origins:area_of_effect",
+  "radius": 5,
+  "effect": {
+    "type": "origins:knockback",
+    "strength": 1.5
+  },
+  "cooldown": 600,
+  "key": {
+    "key": "key.origins.tertiary_active"
+  }
+}

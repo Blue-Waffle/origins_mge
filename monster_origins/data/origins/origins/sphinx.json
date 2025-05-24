@@ -1,0 +1,12 @@
+{
+  "name": "Sphinx",
+  "description": "A mystical guardian monster. Can leap far, resist projectiles, and ask riddles.",
+  "icon": "minecraft:book",
+  "powers": [
+    "origins:great_leap",
+    "origins:projectile_resist",
+    "origins:riddle_ask",
+    "origins:sphinx_size"
+  ],
+  "impact": 2
+}

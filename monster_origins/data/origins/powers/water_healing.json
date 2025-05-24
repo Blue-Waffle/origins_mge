@@ -1,0 +1,7 @@
+{
+  "type": "origins:regeneration",
+  "condition": {
+    "type": "origins:in_water"
+  },
+  "amplifier": 1
+}

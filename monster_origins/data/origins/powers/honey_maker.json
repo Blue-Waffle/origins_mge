@@ -1,0 +1,8 @@
+{
+  "type": "origins:give",
+  "item": "minecraft:honey_bottle",
+  "cooldown": 600,
+  "key": {
+    "key": "key.origins.primary_active"
+  }
+}

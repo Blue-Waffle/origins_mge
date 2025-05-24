@@ -1,0 +1,12 @@
+{
+  "name": "Apsara",
+  "description": "A graceful spirit of water and dance. Moves swiftly, heals allies, and glides on water.",
+  "icon": "minecraft:blue_dye",
+  "powers": [
+    "origins:apsara_swift",
+    "origins:apsara_heal",
+    "origins:apsara_water_glide",
+    "origins:apsara_size"
+  ],
+  "impact": 2
+}

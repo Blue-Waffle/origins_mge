@@ -1,0 +1,11 @@
+{
+  "name": "Werewolf",
+  "description": "A lupine shapeshifter. Fast, strong, and can leap far, especially at night.",
+  "icon": "minecraft:bone",
+  "powers": [
+    "origins:night_strength",
+    "origins:far_leap",
+    "origins:werewolf_size"
+  ],
+  "impact": 3
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Ghoul",
+  "description": "A corpse-eating monster. Regenerates from eating flesh, immune to poison, but burns in sunlight.",
+  "icon": "minecraft:bone",
+  "powers": [
+    "origins:corpse_feast",
+    "origins:poison_immunity",
+    "origins:sunlight_burning",
+    "origins:ghoul_size"
+  ],
+  "impact": 2
+}

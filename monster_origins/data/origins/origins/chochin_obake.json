@@ -1,0 +1,12 @@
+{
+  "name": "Chochin Obake",
+  "description": "A lantern spirit. Can float, emit light, and startle foes with a sudden flash.",
+  "icon": "minecraft:lantern",
+  "powers": [
+    "origins:chochin_float",
+    "origins:emit_light",
+    "origins:flash_startle",
+    "origins:chochin_size"
+  ],
+  "impact": 1
+}

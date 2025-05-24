@@ -1,0 +1,12 @@
+{
+  "name": "Hellhound",
+  "description": "A fiery canine. Immune to fire, can dash with flames, and bites with burning jaws.",
+  "icon": "minecraft:blaze_powder",
+  "powers": [
+    "origins:fire_immunity",
+    "origins:flame_dash",
+    "origins:burning_bite",
+    "origins:hellhound_size"
+  ],
+  "impact": 2
+}

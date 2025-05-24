@@ -1,0 +1,12 @@
+{
+  "name": "Cyclops",
+  "description": "A one-eyed giant. Incredibly strong, tough, but has poor depth perception.",
+  "icon": "minecraft:ender_eye",
+  "powers": [
+    "origins:giant_strength",
+    "origins:tough_hide",
+    "origins:depth_blind",
+    "origins:cyclops_size"
+  ],
+  "impact": 3
+}

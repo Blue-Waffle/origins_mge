@@ -1,0 +1,11 @@
+{
+  "name": "Manticore",
+  "description": "A lion-bodied monster with a venomous tail and wings. Can fly and poison with its sting.",
+  "icon": "minecraft:golden_apple",
+  "powers": [
+    "origins:manticore_flight",
+    "origins:venom_sting",
+    "origins:manticore_size"
+  ],
+  "impact": 3
+}

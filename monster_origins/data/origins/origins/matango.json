@@ -1,0 +1,12 @@
+{
+  "name": "Matango",
+  "description": "A mushroom monster. Spreads spores, is resistant to poison, but slower than average.",
+  "icon": "minecraft:red_mushroom",
+  "powers": [
+    "origins:spore_cloud",
+    "origins:poison_resistance",
+    "origins:sluggish",
+    "origins:matango_size"
+  ],
+  "impact": 1
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Witch",
+  "description": "A mystical monster. Can brew potions, casts spells, and resists harmful effects.",
+  "icon": "minecraft:brewing_stand",
+  "powers": [
+    "origins:potion_brewing",
+    "origins:spell_casting",
+    "origins:effect_resist",
+    "origins:witch_size"
+  ],
+  "impact": 2
+}

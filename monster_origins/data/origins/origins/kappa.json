@@ -1,0 +1,12 @@
+{
+  "name": "Kappa",
+  "description": "A river monster. Swims quickly, breathes in water, and is strong when hydrated.",
+  "icon": "minecraft:lily_pad",
+  "powers": [
+    "origins:fast_swim",
+    "origins:water_breathing",
+    "origins:hydration_strength",
+    "origins:kappa_size"
+  ],
+  "impact": 2
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Angel",
+  "description": "A celestial being. Can fly, slowly regenerates, and is resistant to damage, but vulnerable to darkness.",
+  "icon": "minecraft:totem_of_undying",
+  "powers": [
+    "origins:angel_flight",
+    "origins:slow_regen",
+    "origins:damage_resistance",
+    "origins:darkness_vulnerability",
+    "origins:angel_size"
+  ],
+  "impact": 3
+}

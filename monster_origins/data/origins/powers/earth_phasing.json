@@ -1,0 +1,7 @@
+{
+  "type": "origins:phasing",
+  "block_condition": {
+    "type": "origins:tag",
+    "tag": "minecraft:dirt"
+  }
+}

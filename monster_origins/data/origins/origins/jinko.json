@@ -1,0 +1,12 @@
+{
+  "name": "Jinko",
+  "description": "A striped feline monster. Has powerful claws, leaps far, and moves quickly.",
+  "icon": "minecraft:tiger_spawn_egg",
+  "powers": [
+    "origins:jinko_claws",
+    "origins:jinko_leap",
+    "origins:jinko_speed",
+    "origins:jinko_size"
+  ],
+  "impact": 2
+}

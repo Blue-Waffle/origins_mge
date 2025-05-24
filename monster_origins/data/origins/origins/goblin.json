@@ -1,0 +1,11 @@
+{
+  "name": "Goblin",
+  "description": "A crafty, small monster. Quick, nimble, and adept at finding treasure.",
+  "icon": "minecraft:emerald",
+  "powers": [
+    "origins:treasure_sniff",
+    "origins:quick_hands",
+    "origins:goblin_size"
+  ],
+  "impact": 1
+}

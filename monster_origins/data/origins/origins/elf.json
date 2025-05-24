@@ -1,0 +1,12 @@
+{
+  "name": "Elf",
+  "description": "A forest-dwelling monster. Accurate with bows, has night vision, and moves quietly.",
+  "icon": "minecraft:bow",
+  "powers": [
+    "origins:bow_mastery",
+    "origins:night_vision",
+    "origins:silent_steps",
+    "origins:elf_size"
+  ],
+  "impact": 2
+}

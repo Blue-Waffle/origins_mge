@@ -1,0 +1,10 @@
+{
+  "type": "origins:regeneration",
+  "interval": 80,
+  "amplifier": 1,
+  "condition": {
+    "type": "origins:temperature",
+    "comparison": "<=",
+    "compare_to": 0.15
+  }
+}

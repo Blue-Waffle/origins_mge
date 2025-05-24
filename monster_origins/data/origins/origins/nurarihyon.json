@@ -1,0 +1,12 @@
+{
+  "name": "Nurarihyon",
+  "description": "A mysterious leader of yokai. Can become unnoticed, command lesser spirits, and evade attacks.",
+  "icon": "minecraft:ender_pearl",
+  "powers": [
+    "origins:unnoticed",
+    "origins:command_spirits",
+    "origins:evade",
+    "origins:nurarihyon_size"
+  ],
+  "impact": 2
+}

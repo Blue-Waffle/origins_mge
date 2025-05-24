@@ -1,0 +1,12 @@
+{
+  "name": "Gazer",
+  "description": "A floating eye monster. Can levitate, inflict confusion with its gaze, and see in the dark.",
+  "icon": "minecraft:ender_eye",
+  "powers": [
+    "origins:gazer_levitate",
+    "origins:gazer_confuse",
+    "origins:night_vision",
+    "origins:gazer_size"
+  ],
+  "impact": 2
+}

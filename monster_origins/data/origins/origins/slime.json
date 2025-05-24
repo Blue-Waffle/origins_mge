@@ -1,0 +1,12 @@
+{
+  "name": "Slime",
+  "description": "A bouncy, semi-liquid monster. Resistant to physical attacks and immune to drowning.",
+  "icon": "minecraft:slime_ball",
+  "powers": [
+    "origins:slime_body",
+    "origins:liquid_breathing",
+    "origins:sluggish",
+    "origins:slime_size"
+  ],
+  "impact": 1
+}

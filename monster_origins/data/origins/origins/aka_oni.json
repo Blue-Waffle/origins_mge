@@ -1,0 +1,12 @@
+{
+  "name": "Aka-Oni",
+  "description": "A red ogre monster. Very strong, resists knockback, but is a bit slow.",
+  "icon": "minecraft:red_dye",
+  "powers": [
+    "origins:oni_strength",
+    "origins:knockback_resist",
+    "origins:sluggish",
+    "origins:aka_oni_size"
+  ],
+  "impact": 3
+}

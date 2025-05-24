@@ -1,0 +1,11 @@
+{
+  "name": "Nereid",
+  "description": "A sea nymph monster. Can heal allies in water and calls rain.",
+  "icon": "minecraft:heart_of_the_sea",
+  "powers": [
+    "origins:water_healing",
+    "origins:call_rain",
+    "origins:nereid_size"
+  ],
+  "impact": 2
+}

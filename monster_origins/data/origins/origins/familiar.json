@@ -1,0 +1,12 @@
+{
+  "name": "Familiar",
+  "description": "A magical companion. Can empower its master, is small and quick, and senses magic nearby.",
+  "icon": "minecraft:amethyst_shard",
+  "powers": [
+    "origins:empower_master",
+    "origins:familiar_speed",
+    "origins:magic_sense",
+    "origins:familiar_size"
+  ],
+  "impact": 1
+}

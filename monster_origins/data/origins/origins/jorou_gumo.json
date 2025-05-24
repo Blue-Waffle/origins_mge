@@ -1,0 +1,12 @@
+{
+  "name": "Jorou-Gumo",
+  "description": "A spider spirit who weaves illusions and snares. Can trap foes in webs, climb walls, and is immune to poison.",
+  "icon": "minecraft:cobweb",
+  "powers": [
+    "origins:web_trap",
+    "origins:wall_climb",
+    "origins:poison_immunity",
+    "origins:jorou_gumo_size"
+  ],
+  "impact": 2
+}

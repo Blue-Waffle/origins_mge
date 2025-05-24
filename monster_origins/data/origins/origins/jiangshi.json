@@ -1,0 +1,13 @@
+{
+  "name": "Jiangshi",
+  "description": "A hopping vampire. Leaps high, is immune to poison, drains life, but is slowed by sun.",
+  "icon": "minecraft:paper",
+  "powers": [
+    "origins:jiangshi_leap",
+    "origins:poison_immunity",
+    "origins:jiangshi_life_drain",
+    "origins:jiangshi_sun_slow",
+    "origins:jiangshi_size"
+  ],
+  "impact": 2
+}

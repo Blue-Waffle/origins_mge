@@ -1,0 +1,5 @@
+{
+  "type": "origins:regeneration",
+  "interval": 120,
+  "amplifier": 0
+}

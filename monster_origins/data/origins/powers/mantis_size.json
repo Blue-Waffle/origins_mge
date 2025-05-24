@@ -1,0 +1,7 @@
+{
+  "type": "origins:modify_size",
+  "modifier": {
+    "operation": "multiply_base",
+    "value": 0.85
+  }
+}

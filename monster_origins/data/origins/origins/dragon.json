@@ -1,0 +1,12 @@
+{
+  "name": "Dragon",
+  "description": "A mighty draconic monster. Breathes fire, soars through the sky, and is tough to kill.",
+  "icon": "minecraft:dragon_breath",
+  "powers": [
+    "origins:fire_breath",
+    "origins:flight",
+    "origins:dragon_resistance",
+    "origins:dragon_size"
+  ],
+  "impact": 3
+}

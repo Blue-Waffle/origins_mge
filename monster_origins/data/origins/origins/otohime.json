@@ -1,0 +1,12 @@
+{
+  "name": "Otohime",
+  "description": "A dragon princess. Can enchant allies, breathe underwater, and charm with song.",
+  "icon": "minecraft:amethyst_shard",
+  "powers": [
+    "origins:enchant_allies",
+    "origins:water_breathing",
+    "origins:charm_song",
+    "origins:otohime_size"
+  ],
+  "impact": 2
+}

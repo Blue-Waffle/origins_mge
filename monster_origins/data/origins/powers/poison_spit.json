@@ -1,0 +1,7 @@
+{
+  "type": "origins:cooldown",
+  "cooldown": 400,
+  "key": {
+    "key": "key.origins.primary_active"
+  }
+}

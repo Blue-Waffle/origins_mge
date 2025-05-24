@@ -1,0 +1,12 @@
+{
+  "name": "Youko",
+  "description": "A mystical fox monster. Agile, can cast illusions, and has enhanced senses.",
+  "icon": "minecraft:fox_spawn_egg",
+  "powers": [
+    "origins:fox_agility",
+    "origins:illusion_cast",
+    "origins:keen_senses",
+    "origins:youko_size"
+  ],
+  "impact": 2
+}

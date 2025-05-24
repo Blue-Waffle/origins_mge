@@ -1,0 +1,12 @@
+{
+  "name": "Dark Angel",
+  "description": "A fallen celestial. Can fly, inflicts weakness on foes, and regenerates in darkness.",
+  "icon": "minecraft:black_dye",
+  "powers": [
+    "origins:dark_flight",
+    "origins:inflict_weakness",
+    "origins:dark_regen",
+    "origins:dark_angel_size"
+  ],
+  "impact": 3
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Mothman",
+  "description": "A mysterious cryptid. Can fly, is drawn to light, and can blind enemies with scales.",
+  "icon": "minecraft:phantom_membrane",
+  "powers": [
+    "origins:mothman_flight",
+    "origins:light_drawn",
+    "origins:scale_blast",
+    "origins:mothman_size"
+  ],
+  "impact": 2
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Dhampir",
+  "description": "A half-vampire. Regenerates at dusk, resists poison, but is weakened by sunlight.",
+  "icon": "minecraft:fermented_spider_eye",
+  "powers": [
+    "origins:dhampir_regen",
+    "origins:poison_resist",
+    "origins:sunlight_weakness",
+    "origins:dhampir_size"
+  ],
+  "impact": 2
+}

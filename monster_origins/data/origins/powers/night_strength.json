@@ -1,0 +1,16 @@
+{
+  "type": "origins:attribute",
+  "modifier": {
+    "attribute": "minecraft:generic.attack_damage",
+    "value": 3,
+    "operation": "addition"
+  },
+  "condition": {
+    "type": "origins:time_of_day",
+    "inverted": false,
+    "value": {
+      "min": 13000,
+      "max": 23000
+    }
+  }
+}

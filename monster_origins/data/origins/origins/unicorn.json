@@ -1,0 +1,12 @@
+{
+  "name": "Unicorn",
+  "description": "A mythical equine monster. Heals others, is immune to poison, and runs swiftly.",
+  "icon": "minecraft:amethyst_shard",
+  "powers": [
+    "origins:healing_aura",
+    "origins:poison_immunity",
+    "origins:fast_runner",
+    "origins:unicorn_size"
+  ],
+  "impact": 2
+}

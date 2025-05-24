@@ -1,0 +1,13 @@
+{
+  "name": "Gremlin",
+  "description": "A mischievous imp. Can sabotage machinery, is small and nimble, but weak to light.",
+  "icon": "minecraft:lever",
+  "powers": [
+    "origins:sabotage",
+    "origins:small_stature",
+    "origins:nimble",
+    "origins:light_weakness",
+    "origins:gremlin_size"
+  ],
+  "impact": 1
+}

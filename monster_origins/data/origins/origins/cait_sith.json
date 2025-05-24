@@ -1,0 +1,12 @@
+{
+  "name": "Cait Sith",
+  "description": "A magical cat spirit. Jumps high, lands softly, and can charm with a meow.",
+  "icon": "minecraft:cat_spawn_egg",
+  "powers": [
+    "origins:cat_jump",
+    "origins:soft_landing",
+    "origins:charm_meow",
+    "origins:cait_sith_size"
+  ],
+  "impact": 1
+}

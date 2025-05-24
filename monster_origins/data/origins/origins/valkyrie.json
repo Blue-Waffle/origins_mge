@@ -1,0 +1,12 @@
+{
+  "name": "Valkyrie",
+  "description": "A battle maiden of the skies. Can fly, revives allies, and is resistant to damage.",
+  "icon": "minecraft:iron_sword",
+  "powers": [
+    "origins:valkyrie_flight",
+    "origins:revive_ally",
+    "origins:valkyrie_resistance",
+    "origins:valkyrie_size"
+  ],
+  "impact": 3
+}

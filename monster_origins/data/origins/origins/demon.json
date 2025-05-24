@@ -1,0 +1,12 @@
+{
+  "name": "Demon",
+  "description": "A powerful fiend. Immune to fire, can cast dark magic, and is intimidating.",
+  "icon": "minecraft:nether_wart",
+  "powers": [
+    "origins:fire_immunity",
+    "origins:dark_magic",
+    "origins:intimidation",
+    "origins:demon_size"
+  ],
+  "impact": 3
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Tentacle",
+  "description": "A writhing monster. Can grab foes, moves well in water, and stretches to reach.",
+  "icon": "minecraft:ink_sac",
+  "powers": [
+    "origins:tentacle_grab",
+    "origins:water_agility",
+    "origins:tentacle_reach",
+    "origins:tentacle_size"
+  ],
+  "impact": 2
+}

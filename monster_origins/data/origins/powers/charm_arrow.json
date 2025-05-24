@@ -1,0 +1,14 @@
+{
+  "type": "origins:projectile_damage",
+  "projectile": "minecraft:arrow",
+  "modifier": {
+    "operation": "multiply_total",
+    "value": 0.0
+  },
+  "entity_action": {
+    "type": "origins:apply_effect",
+    "effect": "minecraft:glowing",
+    "duration": 60,
+    "amplifier": 0
+  }
+}

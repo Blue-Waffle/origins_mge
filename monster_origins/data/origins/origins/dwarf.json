@@ -1,0 +1,12 @@
+{
+  "name": "Dwarf",
+  "description": "A sturdy, short monster. Strong, tough, and excels at mining.",
+  "icon": "minecraft:iron_pickaxe",
+  "powers": [
+    "origins:dwarf_strength",
+    "origins:toughness",
+    "origins:mining_speed",
+    "origins:dwarf_size"
+  ],
+  "impact": 2
+}

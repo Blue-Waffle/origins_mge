@@ -1,0 +1,12 @@
+{
+  "name": "Wurm",
+  "description": "A burrowing serpent. Can dig through earth, is resistant to suffocation, but slow above ground.",
+  "icon": "minecraft:dirt",
+  "powers": [
+    "origins:earth_phasing",
+    "origins:suffocation_resist",
+    "origins:slow_surface",
+    "origins:wurm_size"
+  ],
+  "impact": 2
+}

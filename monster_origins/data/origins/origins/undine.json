@@ -1,0 +1,12 @@
+{
+  "name": "Undine",
+  "description": "A water spirit. Can control water, heal in rain, and breathe underwater.",
+  "icon": "minecraft:water_bucket",
+  "powers": [
+    "origins:water_control",
+    "origins:rain_regen",
+    "origins:water_breathing",
+    "origins:undine_size"
+  ],
+  "impact": 2
+}

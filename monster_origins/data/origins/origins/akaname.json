@@ -1,0 +1,12 @@
+{
+  "name": "Akaname",
+  "description": "A filth-loving yokai. Cleanses negative effects, climbs walls, and is small and sneaky.",
+  "icon": "minecraft:mud",
+  "powers": [
+    "origins:cleanse_effects",
+    "origins:wall_climb",
+    "origins:akaname_small",
+    "origins:akaname_size"
+  ],
+  "impact": 1
+}

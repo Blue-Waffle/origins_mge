@@ -1,0 +1,12 @@
+{
+  "name": "Sylph",
+  "description": "A wind spirit. Can glide, move swiftly, and call forth gusts of wind.",
+  "icon": "minecraft:phantom_membrane",
+  "powers": [
+    "origins:glide",
+    "origins:wind_speed",
+    "origins:wind_gust",
+    "origins:sylph_size"
+  ],
+  "impact": 2
+}

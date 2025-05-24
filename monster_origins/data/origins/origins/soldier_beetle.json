@@ -1,0 +1,12 @@
+{
+  "name": "Soldier Beetle",
+  "description": "An armored insect monster. Tough shell, strong jaws, and can climb walls.",
+  "icon": "minecraft:beetroot",
+  "powers": [
+    "origins:beetle_armor",
+    "origins:jaw_attack",
+    "origins:wall_climb",
+    "origins:soldier_beetle_size"
+  ],
+  "impact": 2
+}

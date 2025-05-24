@@ -1,0 +1,12 @@
+{
+  "name": "Anubis",
+  "description": "A jackal-headed monster. Can curse foes, is fast on sand, and senses the undead.",
+  "icon": "minecraft:bone",
+  "powers": [
+    "origins:curse",
+    "origins:sand_speed",
+    "origins:undead_sense",
+    "origins:anubis_size"
+  ],
+  "impact": 2
+}

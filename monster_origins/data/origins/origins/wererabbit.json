@@ -1,0 +1,12 @@
+{
+  "name": "Wererabbit",
+  "description": "A rabbit shapeshifter. Can jump extremely high and move quickly, but is physically fragile.",
+  "icon": "minecraft:rabbit_foot",
+  "powers": [
+    "origins:high_jump",
+    "origins:fast_hopper",
+    "origins:fragile",
+    "origins:wererabbit_size"
+  ],
+  "impact": 2
+}

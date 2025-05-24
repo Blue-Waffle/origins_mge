@@ -1,0 +1,12 @@
+{
+  "name": "Raiju",
+  "description": "A beast of thunder. Can call lightning, moves fast, and is resistant to electricity.",
+  "icon": "minecraft:lightning_rod",
+  "powers": [
+    "origins:call_lightning",
+    "origins:raiju_speed",
+    "origins:shock_resist",
+    "origins:raiju_size"
+  ],
+  "impact": 2
+}

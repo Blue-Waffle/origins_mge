@@ -1,0 +1,13 @@
+{
+  "name": "Troll",
+  "description": "A regenerating giant. Tough, strong, but slow and weak to sunlight.",
+  "icon": "minecraft:moss_block",
+  "powers": [
+    "origins:troll_regen",
+    "origins:troll_strength",
+    "origins:sluggish",
+    "origins:sunlight_vulnerable",
+    "origins:troll_size"
+  ],
+  "impact": 3
+}

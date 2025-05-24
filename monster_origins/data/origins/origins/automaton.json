@@ -1,0 +1,12 @@
+{
+  "name": "Automaton",
+  "description": "A living machine. Resistant to damage, immune to poison, but takes extra damage from water.",
+  "icon": "minecraft:redstone",
+  "powers": [
+    "origins:damage_resist",
+    "origins:poison_immunity",
+    "origins:water_vulnerable",
+    "origins:automaton_size"
+  ],
+  "impact": 2
+}

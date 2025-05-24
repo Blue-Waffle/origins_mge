@@ -1,0 +1,12 @@
+{
+  "name": "Devil",
+  "description": "A sly infernal monster. Can teleport, resists fire, and weakens foes.",
+  "icon": "minecraft:blaze_rod",
+  "powers": [
+    "origins:fire_resistance",
+    "origins:devil_teleport",
+    "origins:weaken",
+    "origins:devil_size"
+  ],
+  "impact": 2
+}

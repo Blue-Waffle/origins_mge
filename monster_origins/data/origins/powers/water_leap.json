@@ -1,0 +1,13 @@
+{
+  "type": "origins:action_over_time",
+  "interval": 40,
+  "entity_action": {
+    "type": "origins:apply_effect",
+    "effect": "minecraft:jump_boost",
+    "duration": 40,
+    "amplifier": 1
+  },
+  "condition": {
+    "type": "origins:in_water"
+  }
+}

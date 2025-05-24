@@ -1,0 +1,12 @@
+{
+  "name": "Girtablilu",
+  "description": "A scorpion monster. Immune to poison, can sting foes, and moves quickly on sand.",
+  "icon": "minecraft:spider_eye",
+  "powers": [
+    "origins:poison_immunity",
+    "origins:scorpion_sting",
+    "origins:sand_speed",
+    "origins:girtablilu_size"
+  ],
+  "impact": 2
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Thunderbird",
+  "description": "A storm-bringing bird. Can summon lightning, fly, and is resistant to fall damage.",
+  "icon": "minecraft:feather",
+  "powers": [
+    "origins:thunder_flight",
+    "origins:lightning_call",
+    "origins:fall_resistance",
+    "origins:thunderbird_size"
+  ],
+  "impact": 3
+}

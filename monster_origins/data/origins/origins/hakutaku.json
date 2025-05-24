@@ -1,0 +1,12 @@
+{
+  "name": "Hakutaku",
+  "description": "A wise beast with many eyes. Sees magic, resists effects, and grants knowledge.",
+  "icon": "minecraft:book",
+  "powers": [
+    "origins:hakutaku_magic_vision",
+    "origins:hakutaku_effect_resist",
+    "origins:hakutaku_knowledge",
+    "origins:hakutaku_size"
+  ],
+  "impact": 2
+}

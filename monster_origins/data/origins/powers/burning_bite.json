@@ -1,0 +1,7 @@
+{
+  "type": "origins:attack_spawn_effect",
+  "entity_action": {
+    "type": "origins:set_on_fire",
+    "duration": 60
+  }
+}

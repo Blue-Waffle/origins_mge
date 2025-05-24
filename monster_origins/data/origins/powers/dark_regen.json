@@ -1,0 +1,8 @@
+{
+  "type": "origins:regeneration",
+  "interval": 100,
+  "amplifier": 1,
+  "condition": {
+    "type": "origins:in_darkness"
+  }
+}

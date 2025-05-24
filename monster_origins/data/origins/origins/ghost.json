@@ -1,0 +1,12 @@
+{
+  "name": "Ghost",
+  "description": "An ethereal monster. Can phase through walls, is immune to poison, but is weak to sunlight.",
+  "icon": "minecraft:ghast_tear",
+  "powers": [
+    "origins:phasing",
+    "origins:poison_immunity",
+    "origins:sunlight_weakness",
+    "origins:ghost_size"
+  ],
+  "impact": 2
+}

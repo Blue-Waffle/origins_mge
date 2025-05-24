@@ -1,0 +1,12 @@
+{
+  "name": "Harpy",
+  "description": "A bird-like monster. Can glide and jump high but has lower max health.",
+  "icon": "minecraft:feather",
+  "powers": [
+    "origins:launch_into_air",
+    "origins:slow_falling",
+    "origins:fragile",
+    "origins:harpy_size"
+  ],
+  "impact": 2
+}

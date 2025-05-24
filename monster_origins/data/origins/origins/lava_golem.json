@@ -1,0 +1,12 @@
+{
+  "name": "Lava Golem",
+  "description": "A burning construct. Immune to fire and lava, can set surroundings ablaze, but sinks in water.",
+  "icon": "minecraft:magma_block",
+  "powers": [
+    "origins:fire_lava_immunity",
+    "origins:ignite_ground",
+    "origins:sink_in_water",
+    "origins:lava_golem_size"
+  ],
+  "impact": 3
+}

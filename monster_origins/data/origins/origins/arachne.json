@@ -1,0 +1,12 @@
+{
+  "name": "Arachne",
+  "description": "A spider monster. Can climb walls, spin webs, and is immune to poison.",
+  "icon": "minecraft:string",
+  "powers": [
+    "origins:wall_climb",
+    "origins:web_spin",
+    "origins:poison_immunity",
+    "origins:arachne_size"
+  ],
+  "impact": 2
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Ignis",
+  "description": "A fire spirit. Immune to fire and lava, can ignite surroundings, but takes extra damage from water.",
+  "icon": "minecraft:blaze_powder",
+  "powers": [
+    "origins:fire_immunity",
+    "origins:ignite",
+    "origins:water_vulnerability",
+    "origins:ignis_size"
+  ],
+  "impact": 2
+}

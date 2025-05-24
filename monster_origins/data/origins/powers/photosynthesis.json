@@ -1,0 +1,12 @@
+{
+  "type": "origins:action_over_time",
+  "interval": 100,
+  "entity_action": {
+    "type": "origins:feed",
+    "food": 1,
+    "saturation": 0.2
+  },
+  "condition": {
+    "type": "origins:exposed_to_sun"
+  }
+}

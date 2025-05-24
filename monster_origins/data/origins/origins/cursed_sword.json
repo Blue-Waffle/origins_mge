@@ -1,0 +1,12 @@
+{
+  "name": "Cursed Sword",
+  "description": "A haunted blade. Deals extra damage, can unleash a curse, but slowly drains its wielder.",
+  "icon": "minecraft:netherite_sword",
+  "powers": [
+    "origins:extra_damage",
+    "origins:unleash_curse",
+    "origins:life_drain",
+    "origins:cursed_sword_size"
+  ],
+  "impact": 2
+}

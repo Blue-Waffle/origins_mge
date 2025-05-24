@@ -1,0 +1,12 @@
+{
+  "name": "Dark Elf",
+  "description": "A subterranean elf. Resistant to negative effects, can apply weakness to foes, but dislikes sunlight.",
+  "icon": "minecraft:fermented_spider_eye",
+  "powers": [
+    "origins:effect_resist",
+    "origins:apply_weakness",
+    "origins:sunlight_weakness",
+    "origins:dark_elf_size"
+  ],
+  "impact": 2
+}

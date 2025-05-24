@@ -1,0 +1,12 @@
+{
+  "name": "Shirophebi",
+  "description": "A phantom rabbit. Moves silently, leaps great distances, and is hard to detect.",
+  "icon": "minecraft:rabbit_foot",
+  "powers": [
+    "origins:silent_steps",
+    "origins:shirophebi_leap",
+    "origins:undetected",
+    "origins:shirophebi_size"
+  ],
+  "impact": 1
+}

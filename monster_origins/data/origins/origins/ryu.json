@@ -1,0 +1,13 @@
+{
+  "name": "Ryu",
+  "description": "A benevolent dragon spirit. Can fly, call storms, breathe water, and move swiftly in rain.",
+  "icon": "minecraft:heart_of_the_sea",
+  "powers": [
+    "origins:ryu_flight",
+    "origins:storm_call",
+    "origins:water_breathing",
+    "origins:rain_speed",
+    "origins:ryu_size"
+  ],
+  "impact": 3
+}

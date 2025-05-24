@@ -1,0 +1,11 @@
+{
+  "name": "Ant",
+  "description": "An ant monster. Can climb walls, carry more items, and is small in size.",
+  "icon": "minecraft:beetroot_seeds",
+  "powers": [
+    "origins:wall_climb",
+    "origins:extra_inventory",
+    "origins:ant_size"
+  ],
+  "impact": 1
+}

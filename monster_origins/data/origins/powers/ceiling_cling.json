@@ -1,0 +1,9 @@
+{
+  "type": "origins:climbing",
+  "condition": {
+    "type": "origins:inverted",
+    "condition": {
+      "type": "origins:in_water"
+    }
+  }
+}

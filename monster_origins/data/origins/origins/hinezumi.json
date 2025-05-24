@@ -1,0 +1,12 @@
+{
+  "name": "Hinezumi",
+  "description": "A fiery mouse. Immune to fire, can emit sparks, and moves quickly.",
+  "icon": "minecraft:fire_charge",
+  "powers": [
+    "origins:hinezumi_fire_immunity",
+    "origins:hinezumi_spark",
+    "origins:hinezumi_speed",
+    "origins:hinezumi_size"
+  ],
+  "impact": 1
+}

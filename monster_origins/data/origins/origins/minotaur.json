@@ -1,0 +1,12 @@
+{
+  "name": "Minotaur",
+  "description": "A bull monster. Extremely strong, charges at foes, but slow to turn.",
+  "icon": "minecraft:leather",
+  "powers": [
+    "origins:bull_strength",
+    "origins:charge",
+    "origins:slow_turn",
+    "origins:minotaur_size"
+  ],
+  "impact": 3
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Ushi Oni",
+  "description": "A monstrous ox-spider. Can poison with attacks, resists knockback, and is intimidating.",
+  "icon": "minecraft:spider_eye",
+  "powers": [
+    "origins:ushi_poison",
+    "origins:ushi_knockback_resist",
+    "origins:intimidate",
+    "origins:ushi_oni_size"
+  ],
+  "impact": 2
+}

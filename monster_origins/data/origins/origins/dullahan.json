@@ -1,0 +1,12 @@
+{
+  "name": "Dullahan",
+  "description": "A headless monster. Carries its own head, is immune to blindness, and resistant to fear.",
+  "icon": "minecraft:carved_pumpkin",
+  "powers": [
+    "origins:headless",
+    "origins:blindness_immunity",
+    "origins:fear_resistance",
+    "origins:dullahan_size"
+  ],
+  "impact": 2
+}

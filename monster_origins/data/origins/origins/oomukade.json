@@ -1,0 +1,12 @@
+{
+  "name": "Oomukade",
+  "description": "A giant centipede. Can poison, climbs any surface, and is resistant to poison.",
+  "icon": "minecraft:fermented_spider_eye",
+  "powers": [
+    "origins:oomukade_poison",
+    "origins:oomukade_climb",
+    "origins:poison_resist",
+    "origins:oomukade_size"
+  ],
+  "impact": 2
+}

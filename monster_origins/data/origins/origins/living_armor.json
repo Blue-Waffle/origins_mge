@@ -1,0 +1,12 @@
+{
+  "name": "Living Armor",
+  "description": "Sentient suit of plate. Strong armor, can shield nearby allies, but sinks in water.",
+  "icon": "minecraft:iron_chestplate",
+  "powers": [
+    "origins:strong_armor",
+    "origins:ally_shield",
+    "origins:sink_water",
+    "origins:living_armor_size"
+  ],
+  "impact": 2
+}

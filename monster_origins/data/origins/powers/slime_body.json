@@ -1,0 +1,10 @@
+{
+  "type": "origins:damage_over_time",
+  "damage_per_tick": 1,
+  "interval": 40,
+  "damage_type": "minecraft:fire",
+  "condition": {
+    "type": "origins:in_block",
+    "block": "minecraft:lava"
+  }
+}

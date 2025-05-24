@@ -1,0 +1,12 @@
+{
+  "name": "Basilisk",
+  "description": "A deadly serpent. Its gaze slows enemies, and its bite is venomous. Resistant to poison.",
+  "icon": "minecraft:emerald",
+  "powers": [
+    "origins:petrifying_gaze",
+    "origins:venom_bite",
+    "origins:poison_resistance",
+    "origins:basilisk_size"
+  ],
+  "impact": 3
+}

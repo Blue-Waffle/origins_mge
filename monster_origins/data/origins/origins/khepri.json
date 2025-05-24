@@ -1,0 +1,12 @@
+{
+  "name": "Khepri",
+  "description": "A sacred scarab monster. Can roll blocks, grant regeneration at dawn, and is immune to poison.",
+  "icon": "minecraft:beetroot_seeds",
+  "powers": [
+    "origins:block_roll",
+    "origins:dawn_regeneration",
+    "origins:poison_immunity",
+    "origins:khepri_size"
+  ],
+  "impact": 2
+}

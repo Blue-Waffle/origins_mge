@@ -1,0 +1,12 @@
+{
+  "name": "Werebat",
+  "description": "A bat shapeshifter. Can fly, uses echolocation, and is weak in sunlight.",
+  "icon": "minecraft:bat_spawn_egg",
+  "powers": [
+    "origins:flight",
+    "origins:echolocation",
+    "origins:sunlight_weakness",
+    "origins:werebat_size"
+  ],
+  "impact": 2
+}

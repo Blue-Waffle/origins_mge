@@ -1,0 +1,12 @@
+{
+  "name": "Selkie",
+  "description": "A shapeshifting seal. Swims swiftly, breathes underwater, and can shed its pelt to move on land.",
+  "icon": "minecraft:leather",
+  "powers": [
+    "origins:selkie_swim",
+    "origins:water_breathing",
+    "origins:pelt_shed",
+    "origins:selkie_size"
+  ],
+  "impact": 2
+}

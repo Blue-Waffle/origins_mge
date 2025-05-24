@@ -1,0 +1,11 @@
+{
+  "name": "Orc",
+  "description": "A strong and hardy monster. Excels in melee combat and shrugs off hunger.",
+  "icon": "minecraft:warped_fungus",
+  "powers": [
+    "origins:orc_strength",
+    "origins:hunger_resistance",
+    "origins:orc_size"
+  ],
+  "impact": 2
+}

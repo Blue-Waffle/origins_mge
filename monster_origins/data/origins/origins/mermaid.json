@@ -1,0 +1,12 @@
+{
+  "name": "Mermaid",
+  "description": "An aquatic monster. Swims swiftly, breathes underwater, but is slow on land.",
+  "icon": "minecraft:prismarine_shard",
+  "powers": [
+    "origins:swift_swimmer",
+    "origins:water_breathing",
+    "origins:sluggish_land",
+    "origins:mermaid_size"
+  ],
+  "impact": 2
+}

@@ -1,0 +1,4 @@
+{
+  "type": "origins:prevent_action",
+  "action": "minecraft:climb_ladder"
+}

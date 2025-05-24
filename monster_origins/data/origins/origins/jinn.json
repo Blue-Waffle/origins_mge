@@ -1,0 +1,12 @@
+{
+  "name": "Jinn",
+  "description": "A magical spirit monster. Can float, cast spells, and is resistant to fire.",
+  "icon": "minecraft:blaze_powder",
+  "powers": [
+    "origins:float",
+    "origins:spell_cast",
+    "origins:fire_resist",
+    "origins:jinn_size"
+  ],
+  "impact": 2
+}

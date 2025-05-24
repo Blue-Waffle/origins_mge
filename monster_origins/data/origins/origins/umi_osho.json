@@ -1,0 +1,12 @@
+{
+  "name": "Umi Osho",
+  "description": "A sea monk yokai. Moves with the tides, heals in water, and can call a mist.",
+  "icon": "minecraft:kelp",
+  "powers": [
+    "origins:tide_shift",
+    "origins:water_heal",
+    "origins:call_mist",
+    "origins:umi_osho_size"
+  ],
+  "impact": 1
+}

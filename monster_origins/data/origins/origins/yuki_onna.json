@@ -1,0 +1,12 @@
+{
+  "name": "Yuki-Onna",
+  "description": "A spirit of snow. Can freeze water, is immune to cold, but weak to fire.",
+  "icon": "minecraft:snowball",
+  "powers": [
+    "origins:freeze_touch",
+    "origins:cold_immunity",
+    "origins:fire_weakness",
+    "origins:yuki_onna_size"
+  ],
+  "impact": 2
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Centaur",
+  "description": "A horse-bodied monster. Runs very fast, jumps high, but can't climb ladders.",
+  "icon": "minecraft:saddle",
+  "powers": [
+    "origins:fast_runner",
+    "origins:high_jump",
+    "origins:no_ladders",
+    "origins:centaur_size"
+  ],
+  "impact": 2
+}

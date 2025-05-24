@@ -1,0 +1,9 @@
+{
+  "type": "origins:attack_spawn_effect",
+  "entity_action": {
+    "type": "origins:apply_effect",
+    "effect": "minecraft:poison",
+    "duration": 80,
+    "amplifier": 1
+  }
+}

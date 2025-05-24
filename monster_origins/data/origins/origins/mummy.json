@@ -1,0 +1,12 @@
+{
+  "name": "Mummy",
+  "description": "A preserved undead monster. Resistant to poison and regeneration, but burns in sunlight.",
+  "icon": "minecraft:sand",
+  "powers": [
+    "origins:poison_resistance",
+    "origins:regeneration",
+    "origins:sunlight_burning",
+    "origins:mummy_size"
+  ],
+  "impact": 2
+}

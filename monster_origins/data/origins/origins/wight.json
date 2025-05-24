@@ -1,0 +1,12 @@
+{
+  "name": "Wight",
+  "description": "A chilling undead. Drains warmth with a touch, is immune to cold, and regenerates at night.",
+  "icon": "minecraft:blue_ice",
+  "powers": [
+    "origins:wight_chill",
+    "origins:cold_immunity",
+    "origins:night_regen",
+    "origins:wight_size"
+  ],
+  "impact": 2
+}

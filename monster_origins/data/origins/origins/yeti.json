@@ -1,0 +1,12 @@
+{
+  "name": "Yeti",
+  "description": "A hulking snow monster. Strong, immune to cold, and leaps far in snow.",
+  "icon": "minecraft:snow_block",
+  "powers": [
+    "origins:yeti_strength",
+    "origins:cold_immunity",
+    "origins:snow_leap",
+    "origins:yeti_size"
+  ],
+  "impact": 2
+}

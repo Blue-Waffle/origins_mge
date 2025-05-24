@@ -1,0 +1,12 @@
+{
+  "name": "Dark Valkyrie",
+  "description": "A fallen battle maiden. Can fly, inflicts weakness, and drains life in combat.",
+  "icon": "minecraft:black_dye",
+  "powers": [
+    "origins:dark_valkyrie_flight",
+    "origins:inflict_weakness",
+    "origins:life_drain",
+    "origins:dark_valkyrie_size"
+  ],
+  "impact": 3
+}

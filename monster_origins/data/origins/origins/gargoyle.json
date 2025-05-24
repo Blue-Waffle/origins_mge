@@ -1,0 +1,13 @@
+{
+  "name": "Gargoyle",
+  "description": "A stone-winged monster. Can glide, petrify temporarily, and is tough but slow.",
+  "icon": "minecraft:stone_bricks",
+  "powers": [
+    "origins:glide",
+    "origins:petrify",
+    "origins:gargoyle_resistance",
+    "origins:sluggish",
+    "origins:gargoyle_size"
+  ],
+  "impact": 2
+}

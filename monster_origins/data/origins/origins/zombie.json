@@ -1,0 +1,13 @@
+{
+  "name": "Zombie",
+  "description": "An undead monster. Immune to poison and hunger, regenerates at night, but burns in sunlight.",
+  "icon": "minecraft:rotten_flesh",
+  "powers": [
+    "origins:poison_immunity",
+    "origins:hunger_immunity",
+    "origins:night_regeneration",
+    "origins:sunlight_burning",
+    "origins:zombie_size"
+  ],
+  "impact": 1
+}

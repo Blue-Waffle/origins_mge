@@ -1,0 +1,9 @@
+{
+  "type": "origins:regeneration",
+  "interval": 80,
+  "amplifier": 1,
+  "condition": {
+    "type": "origins:weather",
+    "weather": "rain"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Kitsuni-Bi",
+  "description": "A fox-fire spirit. Can float, set blocks ablaze, is immune to fire, but is weak to water.",
+  "icon": "minecraft:fire_charge",
+  "powers": [
+    "origins:kitsuni_bi_float",
+    "origins:foxfire_burn",
+    "origins:fire_immunity",
+    "origins:water_weakness",
+    "origins:kitsuni_bi_size"
+  ],
+  "impact": 2
+}

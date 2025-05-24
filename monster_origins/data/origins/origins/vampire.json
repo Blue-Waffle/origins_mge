@@ -1,0 +1,12 @@
+{
+  "name": "Vampire",
+  "description": "A nocturnal monster. Drains life, has night vision, and is harmed by sunlight.",
+  "icon": "minecraft:fermented_spider_eye",
+  "powers": [
+    "origins:life_drain",
+    "origins:night_vision",
+    "origins:sunlight_burning",
+    "origins:vampire_size"
+  ],
+  "impact": 3
+}

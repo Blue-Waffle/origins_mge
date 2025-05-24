@@ -1,0 +1,12 @@
+{
+  "name": "Unagi Joro",
+  "description": "An eel woman. Can swim fast, shock enemies, and breathe underwater.",
+  "icon": "minecraft:prismarine_crystals",
+  "powers": [
+    "origins:unagi_swim",
+    "origins:electric_shock",
+    "origins:water_breathing",
+    "origins:unagi_joro_size"
+  ],
+  "impact": 2
+}

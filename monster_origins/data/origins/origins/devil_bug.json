@@ -1,0 +1,12 @@
+{
+  "name": "Devil Bug",
+  "description": "A tough insect monster. Resistant to knockback, can bite, and moves fast.",
+  "icon": "minecraft:carved_pumpkin",
+  "powers": [
+    "origins:knockback_resist",
+    "origins:devil_bug_bite",
+    "origins:devil_bug_speed",
+    "origins:devil_bug_size"
+  ],
+  "impact": 2
+}

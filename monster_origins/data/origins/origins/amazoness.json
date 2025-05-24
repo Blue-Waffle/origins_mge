@@ -1,0 +1,12 @@
+{
+  "name": "Amazoness",
+  "description": "A jungle warrior monster. Jumps high, moves quickly in forests, and deals extra damage with axes.",
+  "icon": "minecraft:iron_axe",
+  "powers": [
+    "origins:forest_speed",
+    "origins:high_jump",
+    "origins:axe_mastery",
+    "origins:amazoness_size"
+  ],
+  "impact": 2
+}

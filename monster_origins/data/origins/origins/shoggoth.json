@@ -1,0 +1,12 @@
+{
+  "name": "Shoggoth",
+  "description": "A shifting mass of chaos. Can phase through blocks, regenerate, and inflict blindness.",
+  "icon": "minecraft:slime_ball",
+  "powers": [
+    "origins:shoggoth_phasing",
+    "origins:shoggoth_regen",
+    "origins:shoggoth_blindness",
+    "origins:shoggoth_size"
+  ],
+  "impact": 3
+}

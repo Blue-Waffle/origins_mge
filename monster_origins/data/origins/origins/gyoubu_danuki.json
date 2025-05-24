@@ -1,0 +1,12 @@
+{
+  "name": "Gyoubu Danuki",
+  "description": "A shapeshifting tanuki spirit. Can disguise as blocks, manipulate luck, and is nimble.",
+  "icon": "minecraft:barrel",
+  "powers": [
+    "origins:gyoubu_disguise",
+    "origins:manipulate_luck",
+    "origins:nimble",
+    "origins:gyoubu_size"
+  ],
+  "impact": 2
+}

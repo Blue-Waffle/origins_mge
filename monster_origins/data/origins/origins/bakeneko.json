@@ -1,0 +1,12 @@
+{
+  "name": "Bakeneko",
+  "description": "A shapeshifting feline monster. Can disguise itself and has keen night vision.",
+  "icon": "minecraft:cat_spawn_egg",
+  "powers": [
+    "origins:shapeshift",
+    "origins:night_vision",
+    "origins:quick_paws",
+    "origins:bakeneko_size"
+  ],
+  "impact": 2
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Baphomet",
+  "description": "A mischievous goat demon with powerful magic and small stature.",
+  "icon": "minecraft:goat_horn",
+  "powers": [
+    "origins:baphomet_magic",
+    "origins:small_stature",
+    "origins:tricky_step",
+    "origins:baphomet_size"
+  ],
+  "impact": 3
+}

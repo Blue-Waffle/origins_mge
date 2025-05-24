@@ -1,0 +1,12 @@
+{
+  "name": "Cupid",
+  "description": "An angelic archer. Can fire arrows of charm, has wings, and inspires affection.",
+  "icon": "minecraft:arrow",
+  "powers": [
+    "origins:cupid_flight",
+    "origins:charm_arrow",
+    "origins:affection_aura",
+    "origins:cupid_size"
+  ],
+  "impact": 2
+}

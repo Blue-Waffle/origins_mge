@@ -1,0 +1,11 @@
+{
+  "name": "Werecat",
+  "description": "A feline shapeshifter. Agile, quick, and can see in the dark.",
+  "icon": "minecraft:raw_cod",
+  "powers": [
+    "origins:cat_reflexes",
+    "origins:night_vision",
+    "origins:werecat_size"
+  ],
+  "impact": 2
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Dryad",
+  "description": "A tree spirit monster. Gains resistance in forests and can photosynthesize for sustenance.",
+  "icon": "minecraft:oak_sapling",
+  "powers": [
+    "origins:forest_resistance",
+    "origins:photosynthesis",
+    "origins:dryad_size"
+  ],
+  "impact": 2
+}

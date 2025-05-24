@@ -1,0 +1,13 @@
+{
+  "type": "origins:action_over_time",
+  "interval": 40,
+  "entity_action": {
+    "type": "origins:move_towards",
+    "location": {
+      "type": "origins:light_level",
+      "comparison": ">=",
+      "compare_to": 12
+    },
+    "speed": 0.12
+  }
+}

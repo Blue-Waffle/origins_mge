@@ -1,0 +1,14 @@
+{
+  "type": "origins:area_of_effect",
+  "radius": 6,
+  "effect": {
+    "type": "origins:apply_effect",
+    "effect": "minecraft:glowing",
+    "duration": 40,
+    "amplifier": 0
+  },
+  "cooldown": 600,
+  "key": {
+    "key": "key.origins.secondary_active"
+  }
+}

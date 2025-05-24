@@ -1,0 +1,12 @@
+{
+  "name": "Toad",
+  "description": "A jumpy amphibian. Can leap high, is immune to poison, and can spit slowing slime.",
+  "icon": "minecraft:slime_ball",
+  "powers": [
+    "origins:toad_leap",
+    "origins:poison_immunity",
+    "origins:slime_spit",
+    "origins:toad_size"
+  ],
+  "impact": 1
+}

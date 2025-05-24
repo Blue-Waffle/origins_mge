@@ -1,0 +1,12 @@
+{
+  "name": "Fairy",
+  "description": "A tiny magical monster. Can fly, glows in the dark, but is fragile.",
+  "icon": "minecraft:glowstone_dust",
+  "powers": [
+    "origins:flight",
+    "origins:glow",
+    "origins:fragile",
+    "origins:fairy_size"
+  ],
+  "impact": 2
+}

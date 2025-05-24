@@ -1,0 +1,12 @@
+{
+  "name": "Kitsune-Tsuki",
+  "description": "A possessed fox spirit. Can charm foes, is nimble, and can create illusions.",
+  "icon": "minecraft:fox_spawn_egg",
+  "powers": [
+    "origins:charm_spell",
+    "origins:kitsune_nimble",
+    "origins:illusion_cast",
+    "origins:kitsune_tsuki_size"
+  ],
+  "impact": 2
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Will-O'-The-Wisp",
+  "description": "A flickering spirit of light. Can float, is immune to fire, and can confuse enemies with illusionary flames.",
+  "icon": "minecraft:soul_torch",
+  "powers": [
+    "origins:wisp_float",
+    "origins:fire_immunity",
+    "origins:illusion_flame",
+    "origins:wisp_size"
+  ],
+  "impact": 1
+}

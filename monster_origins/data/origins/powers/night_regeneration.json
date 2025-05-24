@@ -1,0 +1,12 @@
+{
+  "type": "origins:regeneration",
+  "interval": 100,
+  "amplifier": 1,
+  "condition": {
+    "type": "origins:time_of_day",
+    "value": {
+      "min": 13000,
+      "max": 23000
+    }
+  }
+}

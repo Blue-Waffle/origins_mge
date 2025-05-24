@@ -1,0 +1,12 @@
+{
+  "name": "Imp",
+  "description": "A mischievous monster. Can teleport short distances, resist fire, but is physically weak.",
+  "icon": "minecraft:magma_cream",
+  "powers": [
+    "origins:short_teleport",
+    "origins:fire_resist",
+    "origins:fragile",
+    "origins:imp_size"
+  ],
+  "impact": 1
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Cu Sith",
+  "description": "A mystical hound. Runs fast, can howl to buff allies, and senses spirits.",
+  "icon": "minecraft:bone",
+  "powers": [
+    "origins:fast_runner",
+    "origins:howl_buff",
+    "origins:spirit_sense",
+    "origins:cu_sith_size"
+  ],
+  "impact": 1
+}

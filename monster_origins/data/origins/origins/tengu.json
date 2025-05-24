@@ -1,0 +1,12 @@
+{
+  "name": "Tengu",
+  "description": "A winged mountain monster. Can glide, commands wind, and moves swiftly.",
+  "icon": "minecraft:feather",
+  "powers": [
+    "origins:wind_glide",
+    "origins:wind_burst",
+    "origins:tengu_speed",
+    "origins:tengu_size"
+  ],
+  "impact": 2
+}

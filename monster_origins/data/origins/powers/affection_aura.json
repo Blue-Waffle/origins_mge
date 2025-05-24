@@ -1,0 +1,10 @@
+{
+  "type": "origins:area_of_effect",
+  "radius": 6,
+  "effect": {
+    "type": "origins:apply_effect",
+    "effect": "minecraft:luck",
+    "duration": 30,
+    "amplifier": 1
+  }
+}

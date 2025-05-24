@@ -1,0 +1,12 @@
+{
+  "name": "Nekomata",
+  "description": "A cat monster with dual tails and mysterious powers. Agile and attuned to spirits.",
+  "icon": "minecraft:cod",
+  "powers": [
+    "origins:cat_agility",
+    "origins:spirit_sight",
+    "origins:double_jump",
+    "origins:nekomata_size"
+  ],
+  "impact": 2
+}

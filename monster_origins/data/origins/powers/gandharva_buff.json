@@ -1,0 +1,14 @@
+{
+  "type": "origins:area_of_effect",
+  "radius": 5,
+  "effect": {
+    "type": "origins:apply_effect",
+    "effect": "minecraft:speed",
+    "duration": 80,
+    "amplifier": 1
+  },
+  "cooldown": 700,
+  "key": {
+    "key": "key.origins.secondary_active"
+  }
+}

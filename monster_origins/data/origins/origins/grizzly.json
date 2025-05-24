@@ -1,0 +1,12 @@
+{
+  "name": "Grizzly",
+  "description": "A bear monster. Very strong and tough, but slow and heavy.",
+  "icon": "minecraft:brown_dye",
+  "powers": [
+    "origins:bear_strength",
+    "origins:tough_hide",
+    "origins:sluggish",
+    "origins:grizzly_size"
+  ],
+  "impact": 2
+}

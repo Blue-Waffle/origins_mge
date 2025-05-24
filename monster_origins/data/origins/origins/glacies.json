@@ -1,0 +1,12 @@
+{
+  "name": "Glacies",
+  "description": "A spirit of ice. Can freeze water, immune to cold, and slows enemies with its touch.",
+  "icon": "minecraft:packed_ice",
+  "powers": [
+    "origins:freeze_water",
+    "origins:cold_immunity",
+    "origins:chill_touch",
+    "origins:glacies_size"
+  ],
+  "impact": 2
+}

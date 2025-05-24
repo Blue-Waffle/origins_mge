@@ -1,0 +1,12 @@
+{
+  "name": "Mindflayer",
+  "description": "A psychic monster. Can stun foes, read minds, and is resistant to magic.",
+  "icon": "minecraft:ender_pearl",
+  "powers": [
+    "origins:psychic_blast",
+    "origins:mind_probe",
+    "origins:magic_resist",
+    "origins:mindflayer_size"
+  ],
+  "impact": 3
+}

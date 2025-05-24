@@ -1,0 +1,11 @@
+{
+  "name": "Mandragora",
+  "description": "A shrill-voiced plant monster. Can emit a stunning scream and is immune to poison.",
+  "icon": "minecraft:carrot",
+  "powers": [
+    "origins:scream",
+    "origins:poison_immunity",
+    "origins:mandragora_size"
+  ],
+  "impact": 2
+}

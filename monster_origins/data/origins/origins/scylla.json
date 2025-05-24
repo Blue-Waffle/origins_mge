@@ -1,0 +1,11 @@
+{
+  "name": "Scylla",
+  "description": "A many-tentacled aquatic monster. Can grab foes and move quickly in water.",
+  "icon": "minecraft:ink_sac",
+  "powers": [
+    "origins:tentacle_grab",
+    "origins:fast_swim",
+    "origins:scylla_size"
+  ],
+  "impact": 3
+}

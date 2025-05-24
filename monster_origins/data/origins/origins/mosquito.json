@@ -1,0 +1,13 @@
+{
+  "name": "Mosquito",
+  "description": "A tiny bloodsucker. Can fly, drain health, and is hard to hit but fragile.",
+  "icon": "minecraft:glass_bottle",
+  "powers": [
+    "origins:mosquito_flight",
+    "origins:health_drain",
+    "origins:evasion",
+    "origins:fragile",
+    "origins:mosquito_size"
+  ],
+  "impact": 1
+}

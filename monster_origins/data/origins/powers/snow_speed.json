@@ -1,0 +1,16 @@
+{
+  "type": "origins:attribute",
+  "modifier": {
+    "attribute": "minecraft:generic.movement_speed",
+    "value": 0.17,
+    "operation": "addition"
+  },
+  "condition": {
+    "type": "origins:block_in_radius",
+    "block_condition": {
+      "type": "origins:block",
+      "block": "minecraft:snow"
+    },
+    "radius": 2
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Apophis",
+  "description": "A colossal serpent of chaos. Can inflict poison and darkness, and is resistant to magic.",
+  "icon": "minecraft:dragon_breath",
+  "powers": [
+    "origins:apophis_poison",
+    "origins:apophis_darkness",
+    "origins:magic_resist",
+    "origins:apophis_size"
+  ],
+  "impact": 3
+}

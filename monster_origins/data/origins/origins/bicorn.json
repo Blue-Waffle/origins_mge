@@ -1,0 +1,12 @@
+{
+  "name": "Bicorn",
+  "description": "A twin-horned beast. Can charge powerfully, resists knockback, and is tough.",
+  "icon": "minecraft:black_wool",
+  "powers": [
+    "origins:bicorn_charge",
+    "origins:bicorn_knockback_resist",
+    "origins:bicorn_toughness",
+    "origins:bicorn_size"
+  ],
+  "impact": 2
+}

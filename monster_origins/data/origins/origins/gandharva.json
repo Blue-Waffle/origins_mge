@@ -1,0 +1,12 @@
+{
+  "name": "Gandharva",
+  "description": "A celestial musician. Can float, charm with song, and grants buffs to nearby allies.",
+  "icon": "minecraft:note_block",
+  "powers": [
+    "origins:gandharva_float",
+    "origins:gandharva_charm",
+    "origins:gandharva_buff",
+    "origins:gandharva_size"
+  ],
+  "impact": 2
+}

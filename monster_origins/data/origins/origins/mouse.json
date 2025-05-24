@@ -1,0 +1,12 @@
+{
+  "name": "Mouse",
+  "description": "A small, nimble monster. Moves quickly, fits through small gaps, but is fragile.",
+  "icon": "minecraft:wheat_seeds",
+  "powers": [
+    "origins:mouse_speed",
+    "origins:mouse_squeeze",
+    "origins:fragile",
+    "origins:mouse_size"
+  ],
+  "impact": 1
+}

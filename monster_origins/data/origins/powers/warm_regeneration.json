@@ -1,0 +1,8 @@
+{
+  "type": "origins:regeneration",
+  "condition": {
+    "type": "origins:biome_tag",
+    "tag": "minecraft:is_hot"
+  },
+  "amplifier": 1
+}

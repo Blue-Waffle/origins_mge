@@ -1,0 +1,11 @@
+{
+  "name": "Hobgoblin",
+  "description": "A larger, tougher goblin. Strong and industrious, but less nimble.",
+  "icon": "minecraft:iron_ingot",
+  "powers": [
+    "origins:strong_arms",
+    "origins:hardy_skin",
+    "origins:hobgoblin_size"
+  ],
+  "impact": 2
+}

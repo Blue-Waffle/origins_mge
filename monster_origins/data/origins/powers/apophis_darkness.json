@@ -1,0 +1,14 @@
+{
+  "type": "origins:area_of_effect",
+  "radius": 6,
+  "effect": {
+    "type": "origins:apply_effect",
+    "effect": "minecraft:blindness",
+    "duration": 60,
+    "amplifier": 0
+  },
+  "cooldown": 800,
+  "key": {
+    "key": "key.origins.primary_active"
+  }
+}

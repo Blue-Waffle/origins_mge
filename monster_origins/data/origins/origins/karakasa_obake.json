@@ -1,0 +1,12 @@
+{
+  "name": "Karakasa Obake",
+  "description": "An umbrella yokai. Can leap, slow falls, and startle with a sudden appearance.",
+  "icon": "minecraft:blue_banner",
+  "powers": [
+    "origins:karakasa_leap",
+    "origins:slow_fall",
+    "origins:umbrella_startle",
+    "origins:karakasa_size"
+  ],
+  "impact": 1
+}

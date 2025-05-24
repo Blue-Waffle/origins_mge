@@ -1,0 +1,11 @@
+{
+  "name": "Alp",
+  "description": "A shadowy monster. Can pass through walls in darkness and inflict nightmares.",
+  "icon": "minecraft:black_dye",
+  "powers": [
+    "origins:shadow_phase",
+    "origins:nightmare_induce",
+    "origins:alp_size"
+  ],
+  "impact": 2
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Dragon Zombie",
+  "description": "An undead dragon. Immune to poison and hunger, breathes decay, but burns in sunlight.",
+  "icon": "minecraft:bone",
+  "powers": [
+    "origins:poison_immunity",
+    "origins:hunger_immunity",
+    "origins:decay_breath",
+    "origins:sunlight_burn",
+    "origins:dragon_zombie_size"
+  ],
+  "impact": 3
+}

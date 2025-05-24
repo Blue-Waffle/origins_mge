@@ -1,0 +1,9 @@
+{
+  "type": "origins:action_over_time",
+  "interval": 200,
+  "entity_action": {
+    "type": "origins:damage",
+    "amount": 1,
+    "source": "minecraft:magic"
+  }
+}

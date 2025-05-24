@@ -1,0 +1,7 @@
+{
+  "type": "origins:invisibility",
+  "condition": {
+    "type": "origins:biome_tag",
+    "tag": "minecraft:is_river"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Cancer",
+  "description": "A mighty crab monster. Can walk sideways, has a tough shell, and pinches hard.",
+  "icon": "minecraft:prismarine_shard",
+  "powers": [
+    "origins:sideways_walk",
+    "origins:tough_shell",
+    "origins:crab_pinch",
+    "origins:cancer_size"
+  ],
+  "impact": 2
+}

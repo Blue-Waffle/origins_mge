@@ -1,0 +1,12 @@
+{
+  "name": "Honey Bee",
+  "description": "A bee monster. Can fly, produces honey, but is vulnerable to smoke.",
+  "icon": "minecraft:honeycomb",
+  "powers": [
+    "origins:flight",
+    "origins:honey_maker",
+    "origins:smoke_weakness",
+    "origins:honey_bee_size"
+  ],
+  "impact": 2
+}

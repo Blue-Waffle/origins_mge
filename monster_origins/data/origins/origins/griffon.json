@@ -1,0 +1,12 @@
+{
+  "name": "Griffon",
+  "description": "A majestic beast with the body of a lion and the wings of an eagle. Can fly, pounce from above, and has sharp vision.",
+  "icon": "minecraft:feather",
+  "powers": [
+    "origins:griffon_flight",
+    "origins:griffon_pounce",
+    "origins:keen_vision",
+    "origins:griffon_size"
+  ],
+  "impact": 3
+}

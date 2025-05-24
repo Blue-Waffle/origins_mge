@@ -1,0 +1,8 @@
+{
+  "type": "origins:attribute",
+  "modifier": {
+    "attribute": "minecraft:generic.turn_speed",
+    "value": -0.2,
+    "operation": "addition"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "type": "origins:attack_spawn_effect",
+  "entity_action": {
+    "type": "origins:heal",
+    "amount": 1
+  }
+}

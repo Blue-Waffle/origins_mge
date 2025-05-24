@@ -1,0 +1,12 @@
+{
+  "name": "Wyvern",
+  "description": "A winged serpent. Can fly, breathes poison, and is resistant to fall damage.",
+  "icon": "minecraft:phantom_membrane",
+  "powers": [
+    "origins:wyvern_flight",
+    "origins:poison_breath",
+    "origins:fall_resist",
+    "origins:wyvern_size"
+  ],
+  "impact": 2
+}

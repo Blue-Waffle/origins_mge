@@ -1,0 +1,12 @@
+{
+  "name": "Ogre",
+  "description": "A massive and mighty monster. Extremely tough, strong, and slow.",
+  "icon": "minecraft:oak_log",
+  "powers": [
+    "origins:ogre_might",
+    "origins:ogre_hide",
+    "origins:sluggish",
+    "origins:ogre_size"
+  ],
+  "impact": 3
+}

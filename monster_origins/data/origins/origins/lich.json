@@ -1,0 +1,12 @@
+{
+  "name": "Lich",
+  "description": "An undead sorcerer. Is immune to poison and hunger, can cast necromantic spells, and is frail.",
+  "icon": "minecraft:soul_sand",
+  "powers": [
+    "origins:poison_hunger_immunity",
+    "origins:necromancy",
+    "origins:frail",
+    "origins:lich_size"
+  ],
+  "impact": 2
+}

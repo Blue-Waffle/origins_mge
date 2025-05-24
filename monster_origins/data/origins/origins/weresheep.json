@@ -1,0 +1,11 @@
+{
+  "name": "Weresheep",
+  "description": "A sheep shapeshifter. Woolly and resistant to cold, can put others to sleep.",
+  "icon": "minecraft:white_wool",
+  "powers": [
+    "origins:wool_armor",
+    "origins:sleep_aura",
+    "origins:weresheep_size"
+  ],
+  "impact": 1
+}

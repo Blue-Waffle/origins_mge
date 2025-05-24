@@ -1,0 +1,10 @@
+{
+  "type": "origins:cooldown",
+  "cooldown": 1200,
+  "hud_render": {
+    "should_render": true
+  },
+  "key": {
+    "key": "key.origins.primary_active"
+  }
+}

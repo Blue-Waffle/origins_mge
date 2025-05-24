@@ -1,0 +1,12 @@
+{
+  "name": "Ittan Momen",
+  "description": "A flying strip of cloth. Can glide, wrap around foes, and is hard to hit.",
+  "icon": "minecraft:white_wool",
+  "powers": [
+    "origins:ittan_glide",
+    "origins:wrap_attack",
+    "origins:evasive",
+    "origins:ittan_momen_size"
+  ],
+  "impact": 1
+}

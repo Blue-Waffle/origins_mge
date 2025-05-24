@@ -1,0 +1,12 @@
+{
+  "name": "Dark Mage",
+  "description": "A wielder of shadow magic. Casts curses, resists magic, but is frail.",
+  "icon": "minecraft:ender_pearl",
+  "powers": [
+    "origins:cast_curse",
+    "origins:magic_resist",
+    "origins:frail",
+    "origins:dark_mage_size"
+  ],
+  "impact": 2
+}

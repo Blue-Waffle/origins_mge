@@ -1,0 +1,12 @@
+{
+  "name": "Dark Priest",
+  "description": "A shadowy cleric. Can curse foes, drain life, and resists negative effects.",
+  "icon": "minecraft:black_candle",
+  "powers": [
+    "origins:curse",
+    "origins:life_drain",
+    "origins:negative_resist",
+    "origins:dark_priest_size"
+  ],
+  "impact": 2
+}

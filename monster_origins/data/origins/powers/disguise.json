@@ -1,0 +1,6 @@
+{
+  "type": "origins:invisibility",
+  "condition": {
+    "type": "origins:sneaking"
+  }
+}

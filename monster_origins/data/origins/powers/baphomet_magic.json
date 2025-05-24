@@ -1,0 +1,12 @@
+{
+  "type": "origins:cooldown",
+  "cooldown": 300,
+  "hud_render": {
+    "should_render": true,
+    "sprite_location": "origins:textures/gui/community/spell.png",
+    "bar_index": 1
+  },
+  "key": {
+    "key": "key.origins.primary_active"
+  }
+}

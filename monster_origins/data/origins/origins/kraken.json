@@ -1,0 +1,11 @@
+{
+  "name": "Kraken",
+  "description": "A legendary sea monster. Can grab foes, move swiftly underwater, and is colossal.",
+  "icon": "minecraft:ink_sac",
+  "powers": [
+    "origins:kraken_grab",
+    "origins:kraken_swim",
+    "origins:kraken_size"
+  ],
+  "impact": 3
+}

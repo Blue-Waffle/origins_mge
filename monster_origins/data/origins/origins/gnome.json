@@ -1,0 +1,12 @@
+{
+  "name": "Gnome",
+  "description": "An earth spirit. Resistant to damage, can shape earth, and is sturdy but slow.",
+  "icon": "minecraft:dirt",
+  "powers": [
+    "origins:earth_shape",
+    "origins:earth_resistance",
+    "origins:sluggish",
+    "origins:gnome_size"
+  ],
+  "impact": 2
+}

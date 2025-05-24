@@ -1,0 +1,7 @@
+{
+  "type": "origins:regeneration",
+  "condition": {
+    "type": "origins:exposed_to_sun"
+  },
+  "amplifier": 1
+}

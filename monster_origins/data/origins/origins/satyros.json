@@ -1,0 +1,12 @@
+{
+  "name": "Satyros",
+  "description": "A lively forest spirit. Jumps far, plays enchanting music, and recovers stamina near plants.",
+  "icon": "minecraft:wheat",
+  "powers": [
+    "origins:satyros_jump",
+    "origins:satyros_music",
+    "origins:plant_regen",
+    "origins:satyros_size"
+  ],
+  "impact": 1
+}

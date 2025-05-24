@@ -1,0 +1,12 @@
+{
+  "name": "Mantis",
+  "description": "An agile insect monster. Quick, can leap far, and deals extra damage with melee attacks.",
+  "icon": "minecraft:lime_dye",
+  "powers": [
+    "origins:mantis_agility",
+    "origins:far_jump",
+    "origins:mantis_strike",
+    "origins:mantis_size"
+  ],
+  "impact": 2
+}
