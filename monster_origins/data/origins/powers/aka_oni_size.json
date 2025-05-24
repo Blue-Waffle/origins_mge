@@ -3,5 +3,8 @@
   "modifier": {
     "operation": "multiply_base",
     "value": 1.25
-  }
+  },
+  "scale_types": [
+    "pehkui:base"
+  ]
 }
